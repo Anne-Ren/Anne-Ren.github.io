@@ -52,10 +52,10 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 
 ## Awards
 
-- Aug 2023：English speech contest at Northwest A&F University of China.
-- May 2023：Scholarships for ...
-- May 2023：Outstanding students for 2021 graduation at Northwest A&F University of China.
-- Jan 2023：jianmeicao sanji zhengshu!
+- <font color="#B509AC">Aug 2023</font>：English speech contest at Northwest A&F University of China.
+- <font color="#B509AC">Sep 2022</font>：Scholarships for ...
+- <font color="#B509AC">Jul 2021</font>：Outstanding students for 2021 graduation at Northwest A&F University of China.
+- <font color="#B509AC">Jan 2019</font>：jianmeicao sanji zhengshu!
 
 <br>
 
