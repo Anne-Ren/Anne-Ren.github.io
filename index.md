@@ -2,7 +2,7 @@
 layout: page
 
 ---
-## Anne-REN
+## About Me
 
 <br>
 
@@ -10,7 +10,7 @@ Hi,there👋.Welcome to <font color="#B509AC">Xiuzi Ren (Anne, 任秀子)</font>
 
 <br>
 
-<img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
+<img src="images/anne.jpg" width="1077" height="1280">
 
 Due to the gradual contact with the direction of <font color="#B509AC">ecology</font>, I learned about other aspects, such as <font color="#B509AC">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
 
