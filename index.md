@@ -54,10 +54,10 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 
 ## Awards
 
-- <font color="#B509AC">Aug 2023</font>:English speech contest at Northwest A&F University of China.
-- <font color="#B509AC">Sep 2022</font>:Scholarships for ...
-- <font color="#B509AC">Jul 2021</font>:Outstanding students for 2021 graduation at Northwest A&F University of China.
-- <font color="#B509AC">Jan 2019</font>:jianmeicao sanji zhengshu!
+- <font color="#B509AC">Aug 2023：</font>Happy to be awarded the FEPG Scholarship.
+- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Collected the Finalist Award in MCM 2023.
+- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 
 <br>
 
