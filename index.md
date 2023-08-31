@@ -2,42 +2,45 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="images/anne.jpg" class="floatpic" width="360" height="680">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is <font color="#743481">Xiuzi Ren (Anne, [任秀子]</font>).
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#743481">soil conservation</font>,<font color="#743481">soil science</font>,<font color="#743481">soil water</font>,<font color="#743481">extreme climate change</font> and <font color="#743481">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
+
+Due to the gradual contact with the direction of <font color="#743481">ecology</font>, I learned about other aspects, such as <font color="#743481">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
+
+I am looking for PhD to start in <font color="#743481">2024</font> Fall. Contact me if you have any leads!
 
 <br>
 
-## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+---
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+## Research Interest
+
+- Understanding of future dynamic land carbon sinks based on natural climate change and appropriate ecosystem management.
+- Protect desertification and sandy land by optimizing ecosystem services such as water conservation and soil conservation.
+- Long-term responses of ecosystem services such as soil conservation and carbon storage to extreme climates.
+
+My current research focuses on The Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area. My interest is the direction of soil science in the <font color="#743481">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#743481">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
 ---
 
-## Research Interests
+## Undergraduate Thesis
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Exploring the changes in soil infiltration and key influencing factors in the short term after simulated burning of grasslands with different abandoned years in hilly and gully areas, providing a scientific basis for the restoration of the ecological environment in the region of China’s Loess Plateau.
 
 <br>
 
 ---
 
-## News and Updates
+## Awards
 
 - **Aug 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
