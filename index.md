@@ -59,10 +59,10 @@ Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>,Junfeng Wang,
 
 ## Awards
 
-- <font color="#B509AC">May 2023：</font>English speech contest at Northwest A&F University of China
-- <font color="#B509AC">Sep 2022：</font>Scholarships for ...
-- <font color="#B509AC">Jul 2021：</font>Outstanding students for 2021 graduation at Northwest A&F University of China.
-- <font color="#B509AC">Jan 2019：</font>jianmeicao sanji zhengshu!
+- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
+- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Collected the Finalist Award in MCM 2023.
+- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 
 <br>
 
@@ -73,9 +73,9 @@ Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>,Junfeng Wang,
 #### bachelors
 
 <div class="third">
-<img src="images/ho1.JPG">
-<img src="images/ho2.JPG">
-<img src="images/ho3.JPG">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
 </div>
 <br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].😄
 
