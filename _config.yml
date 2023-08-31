@@ -66,9 +66,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: Anne-Ren
+  shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Anne-Ren.
+# Latest update in 2023/08/28 by Hanlin Cai.
