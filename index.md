@@ -1,13 +1,12 @@
 ---
 layout: page
+## About Me
 ---
 
 
-## About Me
-
 <img src="images/anne.jpg" class="floatpic" width="360" height="680">
 
-Here is <font color="#B509AC">Xiuzi Ren (Anne, 任秀子)</font>).
+Hi there 👋.Here is <font color="#B509AC">Xiuzi Ren (Anne, 任秀子)</font>).
 
 I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#B509AC">soil conservation</font>,<font color="#B509AC">soil science</font>,<font color="#B509AC">soil water</font>,<font color="#B509AC">extreme climate change</font> and <font color="#B509AC">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
 
@@ -55,10 +54,10 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 
 ## Awards
 
-- **May 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
+- May 2023：English speech contest at Northwest A&F University of China🎤.
+- May 2023：Scholarships for🌟 ...
+- May 2023：Outstanding students for 2021 graduation at Northwest A&F University of China🎓.
+- May 2023：jianmeicao sanji zhengshu💃!
 
 <br>
 
@@ -74,7 +73,7 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 <img src="https://Anne-Ren.github.io/images/be2.jpg" >
 <img src="https://Anne-Ren.github.io/images/be3.jpg" >
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>Graduated from HKUST (The Hong Kong University of Science and Technology)! Fascinating campus scene. Meet lots of fantastic friends here and grow up quickly. Learned how to do research from them.Participated in a lot of interesting robot competitions✨.
 
 <br>
 
@@ -101,7 +100,7 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 <img src="https://Anne-Ren.github.io/images/tr2.jpg" >
 <img src="https://Anne-Ren.github.io/images/tr3.jpg" >
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>2018 02-03: participate in the SEEDS activity about photography, and meet lots of new friends here. Travel to Iceland, Italy, and the Netherlands for one month..
 
 <br>
 
@@ -115,7 +114,7 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 <img src="https://Anne-Ren.github.io/images/ho2.jpg" >
 <img src="https://Anne-Ren.github.io/images/ho3.jpg" >
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>2022 Hiking and Mountains in Hong Kong, China..
 
 <br>
 
@@ -130,15 +129,6 @@ This is my love. Her name is Qbo (Q宝).
 </div>
 <br>
 
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+See more information about me in More Section. Feel Free to talk with me through email.
 
 
