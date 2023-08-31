@@ -6,13 +6,13 @@ layout: page
 
 <img src="images/anne.jpg" class="floatpic" width="360" height="680">
 
-Here is <font color="#743481">Xiuzi Ren (Anne, [任秀子]</font>).
+Here is <font color="#82318E">Xiuzi Ren (Anne, [任秀子]</font>).
 
-I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#743481">soil conservation</font>,<font color="#743481">soil science</font>,<font color="#743481">soil water</font>,<font color="#743481">extreme climate change</font> and <font color="#743481">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
+I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#82318E">soil conservation</font>,<font color="#82318E">soil science</font>,<font color="#82318E">soil water</font>,<font color="#82318E">extreme climate change</font> and <font color="#82318E">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
 
-Due to the gradual contact with the direction of <font color="#743481">ecology</font>, I learned about other aspects, such as <font color="#743481">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
+Due to the gradual contact with the direction of <font color="#82318E">ecology</font>, I learned about other aspects, such as <font color="#82318E">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
 
-I am looking for PhD to start in <font color="#743481">2024</font> Fall. Contact me if you have any leads!
+I am looking for PhD to start in <font color="#82318E">2024</font> Fall. Contact me if you have any leads!
 
 <br>
 
@@ -25,7 +25,7 @@ I am looking for PhD to start in <font color="#743481">2024</font> Fall. Contact
 - Protect desertification and sandy land by optimizing ecosystem services such as water conservation and soil conservation.
 - Long-term responses of ecosystem services such as soil conservation and carbon storage to extreme climates.
 
-My current research focuses on The Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area. My interest is the direction of soil science in the <font color="#743481">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#743481">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on The Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area. My interest is the direction of soil science in the <font color="#82318E">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#82318E">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
