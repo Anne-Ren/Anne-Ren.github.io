@@ -52,10 +52,10 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 
 ## Awards
 
-- <font color="#B509AC">Aug 2023</font>：English speech contest at Northwest A&F University of China.
-- <font color="#B509AC">Sep 2022</font>：Scholarships for ...
-- <font color="#B509AC">Jul 2021</font>：Outstanding students for 2021 graduation at Northwest A&F University of China.
-- <font color="#B509AC">Jan 2019</font>：jianmeicao sanji zhengshu!
+- <font color="#B509AC">Aug 2023</font> English speech contest at Northwest A&F University of China.
+- <font color="#B509AC">Sep 2022</font> Scholarships for ...
+- <font color="#B509AC">Jul 2021</font> Outstanding students for 2021 graduation at Northwest A&F University of China.
+- <font color="#B509AC">Jan 2019</font> jianmeicao sanji zhengshu!
 
 <br>
 
@@ -65,6 +65,47 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 
 #### bachelors
 
+
+<div class="third">
+<img src="https://Anne-Ren.github.io/images/be1.jpg" >
+<img src="https://Anne-Ren.github.io/images/be2.jpg" >
+<img src="https://Anne-Ren.github.io/images/be3.jpg" >
+</div>
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+
+<br>
+
+---
+
+#### field experiments
+
+
+<div class="third">
+<img src="https://Anne-Ren.github.io/images/ex1.jpg" >
+<img src="https://Anne-Ren.github.io/images/ex2.jpg" >
+<img src="https://Anne-Ren.github.io/images/ex3.jpg" >
+</div>
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+
+<br>
+
+---
+
+#### trips
+
+<div class="third">
+<img src="https://Anne-Ren.github.io/images/tr1.jpg" >
+<img src="https://Anne-Ren.github.io/images/tr2.jpg" >
+<img src="https://Anne-Ren.github.io/images/tr3.jpg" >
+</div>
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+
+<br>
+
+---
+
+
+#### hobbies
 
 <div class="third">
 <img src="https://Anne-Ren.github.io/images/ho1.jpg" >
