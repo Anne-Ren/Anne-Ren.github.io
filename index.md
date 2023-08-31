@@ -65,15 +65,36 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 
 #### bachelors
 
+
 <div class="third">
 <img src="https://Anne-Ren.github.io/images/ho1.jpg" >
 <img src="https://Anne-Ren.github.io/images/ho2.jpg" >
 <img src="https://Anne-Ren.github.io/images/ho3.jpg" >
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].😄
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
 
 <br>
 
 ---
 
-### ecology life
+## My Cat
+
+This is my love. Her name is Qbo (Q宝).
+
+<div>
+<img src="/images/cat.JPG">
+</div>
+<br>
+
+## Chat with me
+
+**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+
+
