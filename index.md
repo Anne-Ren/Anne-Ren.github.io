@@ -6,9 +6,9 @@ layout: page
 
 <img src="images/anne.jpg" class="floatpic" width="360" height="680">
 
-Here is <font color="#82318E">Xiuzi Ren (Anne, [任秀子]</font>).
+Here is <font color="#8B008B">Xiuzi Ren (Anne, [任秀子]</font>).
 
-I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#82318E">soil conservation</font>,<font color="#82318E">soil science</font>,<font color="#82318E">soil water</font>,<font color="#82318E">extreme climate change</font> and <font color="#82318E">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
+I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="8B008B">soil conservation</font>,<font color="#82318E">soil science</font>,<font color="#82318E">soil water</font>,<font color="#82318E">extreme climate change</font> and <font color="#82318E">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
 
 Due to the gradual contact with the direction of <font color="#82318E">ecology</font>, I learned about other aspects, such as <font color="#82318E">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
 
