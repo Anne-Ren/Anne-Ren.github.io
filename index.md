@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/anne.jpg" class="floatpic" width="360" height="680">
 
-Here is <font color="#B509AC">Xiuzi Ren (Anne, [任秀子]</font>).
+Here is <font color="#B509AC">Xiuzi Ren (Anne, 任秀子</font>).
 
 I am a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#B509AC">soil conservation</font>,<font color="#B509AC">soil science</font>,<font color="#B509AC">soil water</font>,<font color="#B509AC">extreme climate change</font> and <font color="#B509AC">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
 
@@ -25,7 +25,7 @@ I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Contact
 - Protect desertification and sandy land by optimizing ecosystem services such as water conservation and soil conservation.
 - Long-term responses of ecosystem services such as soil conservation and carbon storage to extreme climates.
 
-My current research focuses on The Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area. My interest is the direction of soil science in the <font color="#B509AC">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#B509AC">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area</font>. My interest is the direction of soil science in the <font color="#B509AC">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#B509AC">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
@@ -39,7 +39,9 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 - [Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau](https://Anne-Ren.github.io/mypaper/plant.pdf)<br>Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>, Junfeng Wang, Qi Zhang, Feng Du, Xuexuan Xu*.<br>
 
 
+
 ---
+
 
 ## Undergraduate Thesis
 
@@ -52,10 +54,10 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 
 ## Awards
 
-- <font color="#B509AC">Aug 2023</font> English speech contest at Northwest A&F University of China.
-- <font color="#B509AC">Sep 2022</font> Scholarships for ...
-- <font color="#B509AC">Jul 2021</font> Outstanding students for 2021 graduation at Northwest A&F University of China.
-- <font color="#B509AC">Jan 2019</font> jianmeicao sanji zhengshu!
+- <font color="#B509AC">Aug 2023</font>:English speech contest at Northwest A&F University of China.
+- <font color="#B509AC">Sep 2022</font>:Scholarships for ...
+- <font color="#B509AC">Jul 2021</font>:Outstanding students for 2021 graduation at Northwest A&F University of China.
+- <font color="#B509AC">Jan 2019</font>:jianmeicao sanji zhengshu!
 
 <br>
 
