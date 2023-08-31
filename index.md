@@ -34,17 +34,9 @@ My current research focuses on The Effect of Fire on Soil Water Infiltration in 
 ## Research Paper
 
 
--[Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau](https://www.mdpi.com/2073-445X/12/8/1485)<br>
+- [Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau](https://www.mdpi.com/2073-445X/12/8/1485)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
 
-<font color="#B509AC">Xiuzi Ren</font>,Xiaohong Chai, Yuanyuan Qu, Yuanhui Xu, Farhat Ullah Khan, Junfeng Wang, Palixiati Geming, Weiwei Wang,  Qi Zhang, Qinxuan Wu, Xuexuan Xu, Feng Du.
-
-<br>
-
--[Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau](https://Anne-Ren.github.io/mypaper/plant.pdf)<br>
-
-Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>,Junfeng Wang, Qi Zhang, Feng Du, Xuexuan Xu.
-
-<br>
+- [Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau](https://Anne-Ren.github.io/mypaper/plant.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
 ---
 
@@ -59,10 +51,10 @@ Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>,Junfeng Wang,
 
 ## Awards
 
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
+- **Aug 2023：**English speech contest at Northwest A&F University of China.
+- **May 2023：**Scholarships for ...
+- **May 2023：**Outstanding students for 2021 graduation at Northwest A&F University of China.
+- **Jan 2023：**jianmeicao sanji zhengshu!
 
 <br>
 
@@ -73,9 +65,9 @@ Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>,Junfeng Wang,
 #### bachelors
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/ho1.JPG">
+<img src="/images/ho2.JPG">
+<img src="/images/ho3.JPG">
 </div>
 <br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].😄
 
