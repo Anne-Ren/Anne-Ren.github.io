@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 
 ## About Me
@@ -52,7 +55,7 @@ My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil
 
 ## Awards
 
-- <font color="#B509AC">Aug 2023：</font>Happy to be awarded the FEPG Scholarship.
+- **May 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
