@@ -4,48 +4,49 @@ layout: page
 ---
 ## About Me
 
+
+
 <br>
 
-Hi,there👋.Welcome to <font color="#B509AC">Xiuzi Ren (Anne, 任秀子)</font> Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by [Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves <font color="#B509AC">soil conservation</font>,<font color="#B509AC">soil science</font>,<font color="#B509AC">soil water</font>,<font color="#B509AC">extreme climate change</font> and <font color="#B509AC">land use change analysis</font>. I prefer to seek PhD opportunity after my Master study.
+Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by <font color="#B509AC">[Prof. Xuexuan Xu]</font> (https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
 
 <img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
 
 <br>
 
-Due to the gradual contact with the direction of <font color="#B509AC">ecology</font>, I learned about other aspects, such as <font color="#B509AC">soil carbon analysis</font>, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  [Prof. Liang Guo](https://www.researchgate.net/profile/Liang-Guo-26).
+Due to the gradual contact with the direction of ecology, I learned about other aspects, such as soil carbon analysis, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of  <font color="#B509AC">[Prof. Liang Guo]</font> (https://www.researchgate.net/profile/Liang-Guo-26).
 
 <br>
 
-I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf). 
+I am looking for PhD to start in 2024 Fall. Here is <font color="#B509AC">[my CV]</font>(https://caihanlin.com/file/cv.pdf). 
 
 <br>
-
 
 ---
-
 
 ## Research Paper
 
 
-- [Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau](https://Anne-Ren.github.io/mypaper/paper1.pdf)<br><font color="#B509AC">Xiuzi Ren</font>, Xiaohong Chai, Yuanyuan Qu, Yuanhui Xu, Farhat Ullah Khan, Junfeng Wang, Palixiati Geming, Weiwei Wang,  Qi Zhang, Qinxuan Wu, Xuexuan Xu*, Feng Du.<br>
 
-- [Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau](https://Anne-Ren.github.io/mypaper/plant.pdf)<br>Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>, Junfeng Wang, Qi Zhang, Feng Du, Xuexuan Xu*.<br>
+- **[Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau]**(https://Anne-Ren.github.io/mypaper/paper1.pdf)<br><font color="#B509AC">Xiuzi Ren</font>, Xiaohong Chai, Yuanyuan Qu, Yuanhui Xu, Farhat Ullah Khan, Junfeng Wang, Palixiati Geming, Weiwei Wang,  Qi Zhang, Qinxuan Wu, Xuexuan Xu*, Feng Du.<br>
 
-
+- **[Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau]**(https://Anne-Ren.github.io/mypaper/plant.pdf)<br>Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>, Junfeng Wang, Qi Zhang, Feng Du, Xuexuan Xu*.<br>
 
 ---
-
 
 ## Undergraduate Thesis
 
 
-- Exploring the changes in soil infiltration and key influencing factors in the short term after simulated burning of grasslands with different abandoned years in hilly and gully areas, providing a scientific basis for the restoration of the ecological environment in the region of China’s Loess Plateau.
+
+- This study selected different abandonment years grasslands in the Wangdonggou small watershed of Changwu County, Shaanxi Province, in the central southern region of the Loess Plateau as the research object. Through field simulation fire experiments, this research offers a fresh perspective on stating the effect of fire on soil moisture infiltration behaviors. To determine the optimal abandonment year in the region, measuring the grassland soil basic properties with different abandonment years and analyzing their differences were used. The findings should make an contribution to the restoration of the ecological system in the Loess Hilly Area. Sampling of soil after burning is currently underway.
 
 <br>
 
 ---
 
-## Awards
+## News & Awards
+
+
 
 - May 2023：English speech contest at Northwest A&F University of China🎤.
 - May 2023：Scholarships for🌟 ...
@@ -59,6 +60,7 @@ I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is
 ## More about Me
 
 #### bachelors
+
 
 
 <div class="third">
@@ -75,6 +77,7 @@ I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is
 #### field experiments
 
 
+
 <div class="third">
 <img src="https://Anne-Ren.github.io/images/ex1.jpg" >
 <img src="https://Anne-Ren.github.io/images/ex2.jpg" >
@@ -87,6 +90,8 @@ I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is
 ---
 
 #### trips
+
+
 
 <div class="third">
 <img src="https://Anne-Ren.github.io/images/tr1.jpg" >
@@ -101,6 +106,8 @@ I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is
 
 
 #### hobbies
+
+
 
 <div class="third">
 <img src="https://Anne-Ren.github.io/images/ho1.jpg" >
