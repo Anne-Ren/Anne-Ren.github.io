@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by <font color="#B509AC">[Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan)</font>. My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
+Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
 
 <img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
 
