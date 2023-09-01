@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by <font color="#B509AC">[Prof. Xuexuan Xu]</font> (https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
+Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by <font color="#B509AC">[Prof. Xuexuan Xu](https://www.researchgate.net/profile/Xu-Xuexuan)</font>. My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
 
 <img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
 
@@ -48,10 +48,14 @@ I am looking for PhD to start in 2024 Fall. Here is <font color="#B509AC">[my CV
 
 
 
-- May 2023：English speech contest at Northwest A&F University of China🎤.
-- May 2023：Scholarships for🌟 ...
-- May 2023：Outstanding students for 2021 graduation at Northwest A&F University of China🎓.
-- May 2023：jianmeicao sanji zhengshu💃!
+- Mar 2023：English speech contest at Northwest A&F University of China🎤.
+- Jan 2021：Outstanding students for 2021 graduation at Northwest A&F University of China🎓.
+- Jan 2020：Scholarships for🌟 ...二等奖学金
+- Apr 2020：shengmingkexue dasai guojia sandengjiang
+- May 2020：hulianwang+ shengsaiyinjiang
+- May 2019：certificate of aerobics level three!💃
+- Sep 2019：nonggaohui zhiyuanzhe 
+- Oct 2018：zhijiao
 
 <br>
 
