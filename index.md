@@ -16,29 +16,18 @@ Due to the gradual contact with the direction of <font color="#B509AC">ecology</
 
 <br>
 
-I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Contact me if you have any leads!
+I am looking for PhD to start in <font color="#B509AC">2024</font> Fall. Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf). 
 
 <br>
 
 
 ---
 
-## Research Interest
-
-- Understanding of future dynamic land carbon sinks based on natural climate change and appropriate ecosystem management.
-- Protect desertification and sandy land by optimizing ecosystem services such as water conservation and soil conservation.
-- Long-term responses of ecosystem services such as soil conservation and carbon storage to extreme climates.
-
-My current research focuses on The <font color="#B509AC"> Effect of Fire on Soil Water Infiltration in Grassland in the Loess Plateau Area</font>. My interest is the direction of soil science in the <font color="#B509AC">management of agricultural ecosystems</font> in the future and the adjustment of <font color="#B509AC">climate change</font>. In a word, for the future global ecosystems to change in a better direction, I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
-
----
 
 ## Research Paper
 
 
-- [Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau](https://www.mdpi.com/2073-445X/12/8/1485)<br><font color="#B509AC">Xiuzi Ren</font>, Xiaohong Chai, Yuanyuan Qu, Yuanhui Xu, Farhat Ullah Khan, Junfeng Wang, Palixiati Geming, Weiwei Wang,  Qi Zhang, Qinxuan Wu, Xuexuan Xu*, Feng Du.<br>
+- [Restoration of Grassland Improves Soil Infiltration Capacity in Water-Wind Erosion Crisscross Region of China's Loess Plateau](https://Anne-Ren.github.io/mypaper/paper1.pdf)<br><font color="#B509AC">Xiuzi Ren</font>, Xiaohong Chai, Yuanyuan Qu, Yuanhui Xu, Farhat Ullah Khan, Junfeng Wang, Palixiati Geming, Weiwei Wang,  Qi Zhang, Qinxuan Wu, Xuexuan Xu*, Feng Du.<br>
 
 - [Cover plant functional types alter the abundance and composition of hydrophobic compounds: the relationship with soil water repellency on the Chinese Loess Plateau](https://Anne-Ren.github.io/mypaper/plant.pdf)<br>Xiaohong Chai, Weiwei Wang, <font color="#B509AC">Xiuzi Ren</font>, Junfeng Wang, Qi Zhang, Feng Du, Xuexuan Xu*.<br>
 
