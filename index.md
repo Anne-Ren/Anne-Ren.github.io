@@ -18,7 +18,7 @@ Due to the gradual contact with the direction of ecology, I learned about other 
 
 <br>
 
-I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV</font>](https://Anne-Ren.github.io/mypaper/cv.pdf). 
+I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV</font>](https://Anne-Ren.github.io/mypaper/AnneCV.pdf). 
 
 <br>
 
