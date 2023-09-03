@@ -8,11 +8,11 @@ layout: page
 
 <br>
 
-Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil  and water conservation,agricultural ecosystem restoration and land use change analysis. I prefer to seek PhD opportunity after my Master study.
-
-<img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
+Hi,there👋. Welcome to Xiuzi Ren (Anne, 任秀子) Page. I'm a second-year master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil  and water conservation, agricultural ecosystem restoration and land use change analysis. I prefer to seek PhD opportunity after my Master study.
 
 <br>
+
+<img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
 
 Due to the gradually contact with the direction of ecology, I am interested in other aspects of environmental ecology, such as optimizing ecosystem services including water and soil conservation, soil carbon analysis. And I completed my bachelor's degree in pratacultural science at Northwest A&F University under the guidance of [<font color="#B509AC">Prof. Liang Guo</font>](https://www.researchgate.net/profile/Liang-Guo-26).
 
@@ -38,7 +38,7 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 
 
 
-- This study selected different abandonment years grasslands in the Wangdonggou small watershed of Changwu County, Shaanxi Province, in the central southern region of the Loess Plateau as the research object. Through field simulation fire experiments, this research offers a fresh perspective on stating the effect of fire on soil moisture infiltration behaviors. To determine the optimal abandonment year in the region, measuring the grassland soil basic properties with different abandonment years and analyzing their differences were used. The findings should make an contribution to the restoration of the ecological system in the Loess Hilly Area. Sampling of soil after burning is currently underway.
+This study selected different abandonment years grasslands in the Wangdonggou small watershed of Changwu County, Shaanxi Province, in the central southern region of the Loess Plateau as the research object. Through field simulation fire experiments, this research offers a fresh perspective on stating the effect of fire on soil moisture infiltration behaviors. To determine the optimal abandonment year in the region, measuring the grassland soil basic properties with different abandonment years and analyzing their differences were used. The findings should make an contribution to the restoration of the ecological system in the Loess Hilly Area. Sampling of soil after burning is currently underway.
 
 <br>
 
