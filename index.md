@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi,there👋. Welcome to Xiuzi Ren (Anne, 任秀子) Page. I'm a second-year master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil  and water conservation, agricultural ecosystem restoration and land use change analysis. I prefer to seek PhD opportunity after my Master study.
+Hi,there👋. Welcome to Xiuzi Ren (Anne, 任秀子) Page. I'm a second-year master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil  and water conservation, agricultural ecosystem restoration and land use change analysis. 
 
 <br>
 
@@ -47,13 +47,13 @@ This study selected different abandonment years grasslands in the Wangdonggou sm
 ## News & Awards
 
 
-- Mar 2023：Third Prize in School Level English Speech Competition🎤
-- Jan 2021：Outstanding graduates at the college level🎓
-- Jan 2020：Professional Scholarships🌟 
-- Apr 2020：National Third Prize in the 4th Life Science Innovation and Entrepreneurship Competition
-- May 2020：Provincial Silver Award of the 5th "Internet+" Innovation and Entrepreneurship Competition
-- May 2019：certificate of aerobics level three!💃
-- Sep 2019：Volunteer of Yangling Agricultural College
+- **Mar 2023：**Third Prize in School Level English Speech Competition🎤
+- **Jan 2021：**Outstanding graduates at the college level🎓
+- **Jan 2020：**Professional Scholarships🌟 
+- **Apr 2020：**National Third Prize in the 4th Life Science Innovation and Entrepreneurship Competition
+- **May 2020：**Provincial Silver Award of the 5th "Internet+" Innovation and Entrepreneurship Competition
+- **May 2019：**certificate of aerobics level three!💃
+- **Sep 2019：**Volunteer of Yangling Agricultural College
 
 <br>
 
