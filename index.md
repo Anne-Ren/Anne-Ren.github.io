@@ -47,13 +47,13 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 ## News & Awards
 
 
--**Mar 2023：**Third Prize in School Level English Speech Competition🎤
--**Jan 2021：**Outstanding graduates at the college level🎓
--**Jan 2020：**Professional Scholarships🌟 
--**Apr 2020：**National Third Prize in the 4th Life Science Innovation and Entrepreneurship Competition
--**May 2020：**Provincial Silver Award of the 5th "Internet+" Innovation and Entrepreneurship Competition
--**May 2019：**certificate of aerobics level three!💃
--**Sep 2019：**Volunteer of Yangling Agricultural College
+-Mar 2023：Third Prize in School Level English Speech Competition🎤
+-Jan 2021：Outstanding graduates at the college level🎓
+-Jan 2020：Professional Scholarships🌟 
+-Apr 2020：National Third Prize in the 4th Life Science Innovation and Entrepreneurship Competition
+-May 2020：Provincial Silver Award of the 5th "Internet+" Innovation and Entrepreneurship Competition
+-May 2019：certificate of aerobics level three!💃
+-Sep 2019：Volunteer of Yangling Agricultural College
 
 <br>
 
