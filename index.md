@@ -8,13 +8,13 @@ layout: page
 
 <br>
 
-Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year academic master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil conservation,soil science,soil water,extreme climate change and land use change analysis. I prefer to seek PhD opportunity after my Master study.
+Hi,there👋.Welcome to Xiuzi Ren (Anne, 任秀子) Page.I'm a second-year master's degree student at Northwest A&F University, supervised by [<font color="#B509AC">Prof. Xuexuan Xu</font>](https://www.researchgate.net/profile/Xu-Xuexuan). My master's research involves soil  and water conservation,agricultural ecosystem restoration and land use change analysis. I prefer to seek PhD opportunity after my Master study.
 
 <img src="images/anne.jpg" class="floatpic" width="1077" height="1280">
 
 <br>
 
-Due to the gradual contact with the direction of ecology, I learned about other aspects, such as soil carbon analysis, and completed a bachelor's degree in grass science at Northwest A&F University under the guidance of [<font color="#B509AC">Prof. Liang Guo</font>](https://www.researchgate.net/profile/Liang-Guo-26).
+Due to the gradually contact with the direction of ecology, I am interested in other aspects of environmental ecology, such as optimizing ecosystem services including water and soil conservation, soil carbon analysis. And I completed my bachelor's degree in pratacultural science at Northwest A&F University under the guidance of [<font color="#B509AC">Prof. Liang Guo</font>](https://www.researchgate.net/profile/Liang-Guo-26).
 
 <br>
 
@@ -34,7 +34,7 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 
 ---
 
-## Undergraduate Thesis
+## Master's Thesis
 
 
 
@@ -47,15 +47,13 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 ## News & Awards
 
 
-
-- Mar 2023：English speech contest at Northwest A&F University of China🎤.
-- Jan 2021：Outstanding students for 2021 graduation at Northwest A&F University of China🎓.
-- Jan 2020：Scholarships for🌟 ...二等奖学金
-- Apr 2020：shengmingkexue dasai guojia sandengjiang
-- May 2020：hulianwang+ shengsaiyinjiang
-- May 2019：certificate of aerobics level three!💃
-- Sep 2019：nonggaohui zhiyuanzhe 
-- Oct 2018：zhijiao
+-**Mar 2023：**Third Prize in School Level English Speech Competition🎤
+-**Jan 2021：**Outstanding graduates at the college level🎓
+-**Jan 2020：**Professional Scholarships🌟 
+-**Apr 2020：**National Third Prize in the 4th Life Science Innovation and Entrepreneurship Competition
+-**May 2020：**Provincial Silver Award of the 5th "Internet+" Innovation and Entrepreneurship Competition
+-**May 2019：**certificate of aerobics level three!💃
+-**Sep 2019：**Volunteer of Yangling Agricultural College
 
 <br>
 
@@ -72,7 +70,7 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 <img src="https://Anne-Ren.github.io/images/be2.jpg" >
 <img src="https://Anne-Ren.github.io/images/be3.jpg" >
 </div>
-<br>Graduated from HKUST (The Hong Kong University of Science and Technology)! Fascinating campus scene. Meet lots of fantastic friends here and grow up quickly. Learned how to do research from them.Participated in a lot of interesting robot competitions✨.
+<br>Meet fantastic friends here and grow up quickly, and the tutors during the undergraduate and postgraduate periods were also nice. Learned how to do research from them. Participated in a lot of interesting competitions.
 
 <br>
 
@@ -87,7 +85,7 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 <img src="https://Anne-Ren.github.io/images/ex2.jpg" >
 <img src="https://Anne-Ren.github.io/images/ex3.jpg" >
 </div>
-<br>The photos were taken in Changwu, Gansu, and Yunwu Mountain, Ningxia: I was burning the soil and collecting soil samples, and there were deers in the mountains keeping us company. Understand ecology, fall in love with ecology, and protect the earth's ecology.
+<br>These photos were taken in Changwu, Gansu, and Yunwu Mountain, Ningxia: I was burning the soil and collecting soil samples, and there were deers in the mountains keeping us company. Understood the ecology, fell in love with ecology, and want to protect the earth's agriculture and environment.
 
 <br>
 
@@ -102,7 +100,7 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 <img src="https://Anne-Ren.github.io/images/tr2.jpg" >
 <img src="https://Anne-Ren.github.io/images/tr3.jpg" >
 </div>
-<br>The happy time spent with friends in Qingdao in 2021; in the summer of 2019, my classmates and I went to Guanshan Ranch in China to complete a one-month grassland survey internship course.
+<br>The happy time spent with friends in Qingdao in 2021; in the summer of 2019, my friends and I went to Guanshan Ranch to complete a one-month grassland survey internship course.
 
 <br>
 
@@ -124,6 +122,6 @@ I am looking for PhD to start in 2024 Fall. Here is [<font color="#B509AC">my CV
 
 ---
 
-              Feel Free to talk with me through email.
+              Feel Free to talk with me through email~
 
 
